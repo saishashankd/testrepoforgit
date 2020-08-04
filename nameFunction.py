@@ -4,4 +4,4 @@ def greet(name):
     the person passed in as
     a parameter
     """
-    print("Hello, " + name + ". Good morning!")
+    print("Hello, " + name + ". Good afternoon!")
